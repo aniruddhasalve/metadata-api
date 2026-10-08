@@ -4,7 +4,7 @@
 
 POST /inspect extracts safe name, size, media type, and optional image dimensions from base64 file bytes.
 
-This is a small reusable Python 3.11 service with no AI components and no runtime dependencies. It uses the standard library HTTP server so it can be copied into internal automation, extended, or deployed behind a reverse proxy.
+This is a small reusable Python 3.11 service with no runtime dependencies. It uses the standard library HTTP server so it can be copied into internal automation, extended, or deployed behind a reverse proxy.
 
 ## Run
 
